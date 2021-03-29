@@ -433,7 +433,3 @@ class Velocity:
     #Will increase the velocity of at least one of the three velocites #
 if __name__ == '__main__':
     unittest.main()
-    
-git remote add origin https://github.com/CS270Sanix/Tokamak.git
-git branch -M main
-git push -u origin main
