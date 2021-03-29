@@ -2,7 +2,7 @@
 import unittest
 
 class Particle(unittest.TestCase):
-    
+    #ffffffffffffffffffff
     def initial(self, color, electrons, protons, neutrons, charge, direction, xpos, ypos, zpos, energies, mass):
         #tracks all necessary attributes of the Particles in our modelled system, for each type of Particle (quantity, appearance, position, velocity, energy, and charge#
         #additionally tracks some amount of the last positions in order to provide a motion trail for the Particle visualization#
